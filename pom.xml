@@ -26,9 +26,8 @@
             <plugins>
                 <plugin>
  <groupId>org.apache.maven.plugins</groupId>
- <artifactid>maven-failsafe-plugin</artifactId>
+ <artifactid>maven-failsafe-plugin </artifactid>
  <version>2.12</version>
-
  <configuration>
   <groups>com.test.annotation.type.IntegrationTest</groups>
  </configuration>
